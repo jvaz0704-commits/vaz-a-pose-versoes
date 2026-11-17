@@ -7,9 +7,19 @@ Da câmera pra tela, já revelada. Criado por **Juan Vaz**.
 **[Baixar o instalador da versão mais nova](../../releases/latest)**
 (na página que abrir, clique no arquivo `Instalar-Vaz-a-Pose-….exe`).
 
-## Instalar
+## Instalar no Mac (Apple Silicon: M1, M2, M3, M4)
 
-1. Abra o arquivo baixado.
+1. Na página da versão, baixe o `Vaz-a-Pose-Mac-….zip` e abra (ele vira o **Vaz a Pose**).
+2. Arraste o **Vaz a Pose** pra pasta **Aplicativos**.
+3. Na primeira vez, o Mac avisa que não pode verificar o app (ele ainda não tem a assinatura da Apple).
+   Vá em **Ajustes do Sistema → Privacidade e Segurança**, role até o aviso do Vaz a Pose e clique em **Abrir Mesmo Assim**.
+4. Se o Mac pedir pra permitir conexões de entrada, clique em **Permitir**: é a câmera pelo Wi-Fi e o celular.
+
+Câmera no cabo no Mac: deixe o app **Fotos** e o **Captura de Imagem** fechados enquanto fotografa.
+
+## Instalar no Windows
+
+1. Abra o arquivo baixado (`Instalar-Vaz-a-Pose-….exe`).
 2. **O Windows pode mostrar "O Windows protegeu o computador".** É esperado: o Vaz a Pose ainda não tem assinatura digital (um certificado pago), então o Windows não reconhece o autor.
    Clique em **Mais informações** e depois em **Executar assim mesmo**.
 3. Clique em **Instalar**. Não precisa ser administrador.
