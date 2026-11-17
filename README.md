@@ -9,8 +9,9 @@ Da câmera pra tela, já revelada. Criado por **Juan Vaz**.
 
 ## Instalar no Mac (Apple Silicon: M1, M2, M3, M4)
 
-1. Na página da versão, baixe o `Vaz-a-Pose-Mac-….zip` e abra (ele vira o **Vaz a Pose**).
-2. Arraste o **Vaz a Pose** pra pasta **Aplicativos**.
+1. Na página da versão, baixe o `Vaz-a-Pose-Mac-….dmg` e abra.
+2. Na janela que aparece, arraste o **Vaz a Pose** pra pasta **Aplicativos**. Pronto: ele fica no Launchpad e nos Aplicativos.
+   (O `.zip` da mesma página é usado só pela atualização automática.)
 3. Na primeira vez, o Mac avisa que não pode verificar o app (ele ainda não tem a assinatura da Apple).
    Vá em **Ajustes do Sistema → Privacidade e Segurança**, role até o aviso do Vaz a Pose e clique em **Abrir Mesmo Assim**.
 4. Se o Mac pedir pra permitir conexões de entrada, clique em **Permitir**: é a câmera pelo Wi-Fi e o celular.
