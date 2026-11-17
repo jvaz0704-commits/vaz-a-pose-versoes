@@ -15,7 +15,13 @@ Da câmera pra tela, já revelada. Criado por **Juan Vaz**.
 3. Clique em **Instalar**. Não precisa ser administrador.
 4. Pronto: o Vaz a Pose fica na Área de Trabalho e no Menu Iniciar.
 
-Se aparecer **"Controle Inteligente de Aplicativos bloqueou…"** e não tiver a opção de executar, essa proteção do Windows 11 não deixa abrir apps sem assinatura. Nesse caso, fale com o Juan.
+### Se aparecer "Controle Inteligente de Aplicativos bloqueou…"
+Essa proteção do Windows 11 não deixa abrir apps sem assinatura digital, e não tem botão de executar.
+Se você quiser instalar mesmo assim, pode desligá-la:
+**Segurança do Windows → Controle de aplicativos e navegador → Configurações do Controle Inteligente de Aplicativos → Desativado**.
+Depois abra o instalador de novo: vai aparecer só o aviso de "Executar assim mesmo".
+
+> Atenção: em algumas versões do Windows 11, depois de desligar não dá pra ligar de novo sem reinstalar o Windows (o próprio Windows avisa na hora). O antivírus continua funcionando normalmente. A decisão é sua; na dúvida, fale com o Juan.
 
 ## Atualizações
 
